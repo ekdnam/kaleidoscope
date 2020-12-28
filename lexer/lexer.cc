@@ -1,4 +1,4 @@
-#include<string>
+#include <string>
 
 // lexer returns tokens [0-255] if it is an unknown character
 // or does not belong to these strings
